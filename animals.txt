@@ -1,4 +1,10 @@
+
 lion red
 tiger red
 leopard red
 turtle red
+
+lion green
+tiger green
+leopard green
+turtle green
